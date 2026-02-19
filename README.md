@@ -5,26 +5,26 @@ Executive Administrative Portfolio showcasing experience, projects, and workflow
 ![Professional Headshot](Headshot.png)
 
 ## About Me
-I am an experienced Executive Administrative Professional with a proven record of supporting C-suite executives, managing complex schedules, streamlining office operations, and improving workflow efficiency. Known for discretion, organization, and a proactive approach to problem-solving.
+I am an experienced Executive Administrative Professional with a proven record of supporting C-suite executives, managing complex schedules, streamlining office operations, and improving workflow efficiency. Discretionary, organized, and I have a proactive approach to problem-solving.
 
 ---
 
 ## Experience Highlights
 
 **Executive Administrative Support**  
-- Coordinated schedules, meetings, and communications for multiple executives simultaneously.  
-- Prepared and managed confidential documents, contracts, and reports.  
-- Streamlined office workflows to improve efficiency, reducing task duplication by 25%.  
+- Coordinate schedules, meetings, and communications for multiple executives simultaneously in various time zones.  
+- Accurately prepare and manage confidential documents, contracts, and reports.  
+- Streamline office workflows to improve efficiency, reducing task duplication by 25%.  
 
 **Project & Office Management**  
-- Implemented project tracking templates and reporting systems for team efficiency.  
-- Led onboarding and training for new administrative staff.  
-- Assisted in event planning, including corporate meetings, client presentations, and team retreats.  
+- Implement project tracking templates and reporting systems for team efficiency.  
+- Lead onboarding and training for new administrative staff.  
+- Assist in event planning, including corporate meetings, client presentations, and team retreats.  
 
 **Business & Operations Support**  
-- Managed client correspondence and maintained CRM records.  
-- Prepared monthly operational summaries and executive dashboards.  
-- Facilitated cross-departmental collaboration to achieve organizational goals.  
+- Manage client correspondence and maintain records.  
+- Prepare monthly operational summaries and executive dashboards.  
+- Facilitate cross-departmental and team collaboration to achieve organizational goals.  
 
 ---
 
@@ -32,7 +32,7 @@ I am an experienced Executive Administrative Professional with a proven record o
 
 - **Software & Tools:** Microsoft Office Suite, G-Suite, Slack, Trello, Asana, Smartsheet, Zoom  
 - **Administration:** Calendar Management, Meeting Coordination, Travel Arrangements, Document Prep  
-- **Workflow Optimization:** Process Improvement, Reporting, Template Creation  
+- **Workflow Optimization:** Process Improvement, Reporting, Template Creation, Complex Problem Solving 
 - **Communication:** Professional Email Drafting, Internal & External Liaison, Confidential Correspondence  
 
 ---
