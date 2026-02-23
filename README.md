@@ -2,7 +2,7 @@
 Executive Administrative Portfolio showcasing experience, projects, and workflow skills.
 # Kim Weatherington - Executive Administrative Portfolio
 
-![Professional Headshot](Headshot.png)
+
 
 ## About Me
 I am an experienced Executive Administrative Professional with a proven record of supporting C-suite executives, managing complex schedules, streamlining office operations, and improving workflow efficiency. Discretionary, organized, and I have a proactive approach to problem-solving.
